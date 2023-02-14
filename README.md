@@ -1,32 +1,28 @@
-### Olá, eu sou o Vitor! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&left=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as)+👋;Sou+o+Vítor+Oliveira+😎;Estudando+para+ser+Desenvolvedor+💻!!!)](https://git.io/typing-svg)
+
+ 
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estudo desenvolvimento Back-end
+- 🔭 Atualmente estudo desenvolvimento Back-end           
 - 🌱 Estudando Python e SQL
 - 📫 Contate-me no email: vitorsk807@gmail.com
 - 😄 Pronouns: ele/dele
+-  ⚙ Aprendizado em metodologias ágeis, como Scrum e Kanban
+-  🧾 Portfólio web: http://vitordev.com.br/meucv
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsvi&show_icons=true&count_private=true&hide_border=true&title_color=white&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Oliveira github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=offsvi&layout=compact&hide_border=true&title_color=dark&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=offsvi&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=offsvi&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=offsvi&show_icons=true" />
-</picture>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
 
