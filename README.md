@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Atualmente estudo desenvolvimento Back-end           
-- 🌱 Estudando Python e SQL
+- 🌱 Estudando Python, SQL e AWS
 - 📫 Contate-me no email: vitorsk807@gmail.com
 - 😄 Pronouns: ele/dele
 -  ⚙ Aprendizado em metodologias ágeis, como Scrum e Kanban
