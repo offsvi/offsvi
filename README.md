@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&left=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as)+👋;Sou+o+Vítor+Oliveira+😎;Estudando+para+ser+Desenvolvedor+💻!!!)](https://git.io/typing-svg)
 
- 
-
 Here are some ideas to get you started:
 
 - 🔭 Atualmente estudo desenvolvimento Back-end           
