@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estudo desenvolvimento Back-end           
 - 🌱 Estudando Python, SQL e AWS
 - 📫 Contate-me no email: contato.vitordev@gmail.com
-- 😄 Pronouns: ele/dele
 -  ⚙ Aprendizado em metodologias ágeis, como Scrum e Kanban
 -  🧾 Portfólio web: http://vitordev.com.br/meucv
 <div align="center">  
