@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estudo desenvolvimento Back-end           
+- 🔭 Atualmente estudo desenvolvimento Back-end          
 - 🌱 Estudando Python, SQL, Power BI e AWS
 - 📫 Contate-me no email: contato.vitordev@gmail.com
--  ⚙ Aprendizado em metodologias ágeis, como Scrum e Kanban
+-  ⚙ Aprendizado em metodologias ágeis, como Scrum 
 -  🧾 Portfólio web: http://vitordev.com.br/meucv
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsvi&show_icons=true&count_private=true&hide_border=true&title_color=white&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Oliveira github stats"/> 
