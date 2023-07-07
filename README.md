@@ -1,11 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&left=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as)+👋;Sou+o+Vítor+Oliveira+😎;Estudando+para+ser+Desenvolvedor+💻!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=35&left=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as)+👋;Sou+o+Vítor+Oliveira+😎;Trabalho+no+Santander+Tecnologia+💻!!!)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estudo desenvolvimento Back-end          
-- 🌱 Estudando Python, SQL, Power BI e AWS
-- 📫 Contate-me no email: contato.vitordev@gmail.com
--  ⚙ Aprendizado em metodologias ágeis, como Scrum 
+- 🔭 Trabalho no Santander Tecnologia | F1rst         
+- 🌱 Estudante de ADS.
+-  ⚙ Aprendizado Constatante.
 -  🧾 Portfólio web: http://vitordev.com.br/meucv
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsvi&show_icons=true&count_private=true&hide_border=true&title_color=white&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Oliveira github stats"/> 
