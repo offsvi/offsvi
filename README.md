@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 - 🔭 Trabalho no Santander Tecnologia | F1rst         
 - 🌱 Estudante de ADS.
 -  ⚙ Aprendizado Constatante.
+-  Certificações: Microsoft AZ-900
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=offsvi&show_icons=true&count_private=true&hide_border=true&title_color=white&icon_color=white&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Oliveira github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=offsvi&layout=compact&hide_border=true&title_color=dark&text_color=c9d1d9&bg_color=0d1117"/>
